@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+ <trees>
+     <tree path="/pages.json" title="路由" extension="json"/>
+     <tree path="/pages/index/index.vue" title="首页" extension="vue"/>
+     <tree path="/pages/info/info.vue" title="评价" extension="vue"/>
+     <tree path="/pages/Log/Log.vue" title="登录" extension="vue"/>
+     <tree path="/pages/my/my.vue" title="我的" extension="vue"/>
+     <tree path="/pages/shouye/shouye.vue" title="美食" extension="vue"/>
+     <tree path="/pages/Test/Test.vue" title="测试" extension="vue"/>
+ </trees>
